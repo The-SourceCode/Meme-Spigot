@@ -1,0 +1,5 @@
+name: TNTFall
+author: TheSourceCode
+main: dev.thesourcecode.tntfall.FallMain
+version: 1
+api-version: 1.13

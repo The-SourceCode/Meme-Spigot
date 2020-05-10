@@ -1,0 +1,7 @@
+name: CoronaVirus
+author: TheSourceCode LLC
+main: dev.thesourcecode.covid.CoronaVirus
+api-version: 1.13
+version: 1.0.0
+commands:
+  cv:

@@ -1,0 +1,5 @@
+name: GravityBOI
+main: dev.thesourcecode.gravity.GravityMain
+api-version: 1.13
+author: TheSourceCode
+version: 1.0
