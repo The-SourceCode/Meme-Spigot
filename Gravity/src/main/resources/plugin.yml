@@ -1,5 +1,6 @@
 name: GravityBOI
 main: dev.thesourcecode.gravity.GravityMain
-api-version: 1.13
+api-version: '26.3'
 author: TheSourceCode
-version: 1.0
+version: 2.0.0
+description: Launches players into the air when they stand still

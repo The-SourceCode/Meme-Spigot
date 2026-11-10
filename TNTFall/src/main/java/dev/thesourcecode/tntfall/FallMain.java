@@ -28,7 +28,7 @@ public class FallMain extends JavaPlugin implements Listener {
         int random = new Random().nextInt(11);
 
         if (random == 0) {
-            Entity entity = player.getWorld().spawnEntity(event.getBlock().getLocation(), EntityType.PRIMED_TNT);
+            Entity entity = player.getWorld().spawnEntity(event.getBlock().getLocation(), EntityType.TNT);
             this.getServer().broadcastMessage(ChatColor.GOLD  + player.getName() + ChatColor.YELLOW + " has primed TNT :)");
         }
     }

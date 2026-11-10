@@ -1,5 +1,6 @@
 name: TNTFall
 author: TheSourceCode
 main: dev.thesourcecode.tntfall.FallMain
-version: 1
-api-version: 1.13
+api-version: '26.3'
+version: 2.0.0
+description: Randomly primes TNT when players place blocks

@@ -1,7 +1,10 @@
 name: CoronaVirus
 author: TheSourceCode LLC
 main: dev.thesourcecode.covid.CoronaVirus
-api-version: 1.13
-version: 1.0.0
+api-version: '26.3'
+version: 2.0.0
+description: A meme plugin that spreads the Corona Virus between players
 commands:
   cv:
+    description: Start the Corona Virus outbreak
+    usage: /cv
